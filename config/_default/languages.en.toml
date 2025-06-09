@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 2
-title = "Blowfish"
+title = "Aki's blog"
 
 [params]
   displayName = "EN"
@@ -13,6 +13,12 @@ title = "Blowfish"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+name = "Suzumiya Aki"
+headline = "叶えたい夢も今日で100個できたよ たったつといつか交換こしよう"
+bio = "Time waits for no one."
+links = [ { github = "https://github.com/AkiRikka" } ]
 
 # [params.author]
 #   name = "Your name here"
