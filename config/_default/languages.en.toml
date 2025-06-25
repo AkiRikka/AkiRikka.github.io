@@ -14,11 +14,12 @@ title = "Aki's blog"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
-name = "Suzumiya Aki"
-headline = "叶えたい夢も今日で100個できたよ たったつといつか交換こしよう"
-bio = "Time waits for no one."
-links = [ { github = "https://github.com/AkiRikka" } ]
+[params.author]
+  name = "Suzumiya Aki"
+  headline = "叶えたい夢も今日で100個できたよ たったつといつか交換こしよう"
+  bio = "Time waits for no one."
+  image = "img/miku-love.gif"
+  links = [ { github = "https://github.com/AkiRikka" } ]
 
 # [params.author]
 #   name = "Your name here"
