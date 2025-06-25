@@ -24,8 +24,6 @@ title = "Aki's blog"
     { email = "mailto:akinosoda@gmail.com" },
     { github = "https://github.com/AkiRikka" },
     { twitter = "https://twitter.com/AkiRikkaaaa" },
-
-
   ]
 
 # [params.author]
