@@ -5,7 +5,7 @@ weight = 2
 title = "Aki's blog"
 
 [params]
-  displayName = "EN"
+  displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
@@ -19,7 +19,11 @@ title = "Aki's blog"
   headline = "叶えたい夢も今日で100個できたよ たったつといつか交換こしよう"
   bio = "Time waits for no one."
   image = "img/miku-love.gif"
-  links = [ { github = "https://github.com/AkiRikka" } ]
+  links = [ 
+    { email = "mailto:akinosoda@gmail.com" },
+    { github = "https://github.com/AkiRikka" },
+    { twitter = "https://twitter.com/AkiRikkaaaa" },
+  ]
 
 # [params.author]
 #   name = "Your name here"

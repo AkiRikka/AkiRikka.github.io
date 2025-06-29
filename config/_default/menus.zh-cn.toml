@@ -11,25 +11,29 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Blog"
- pageRef = "posts"
- weight = 10
+  name = "论文阅读"
+  pageRef = "paper"
+  weight = 10
 
 [[main]]
- name = "Parent"
- weight = 20
+  name = "图形学"
+  pageRef = "graphics"
+  weight = 20
 
 [[main]]
- name = "example sub-menu 1"
- parent = "Parent"
- pageRef = "posts"
- weight = 20
+  name = "ACGN"
+  pageRef = "acgn"
+  weight = 30
 
 [[main]]
- name = "example sub-menu 2"
- parent = "Parent"
- pageRef = "posts"
- weight = 20
+  name = "音乐"
+  pageRef = "music"
+  weight = 40
+
+[[main]]
+  name = "其他"
+  pageRef = "other"
+  weight = 50
 
 # [[subnavigation]]
 #  name = "An interesting topic"

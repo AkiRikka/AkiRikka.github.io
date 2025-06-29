@@ -11,7 +11,7 @@ title = "Aki's blog"
   dateFormat = "2006 January 2"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Aki's blog"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
