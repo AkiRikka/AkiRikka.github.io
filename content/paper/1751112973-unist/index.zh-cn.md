@@ -76,7 +76,7 @@ UniST 在这里选取的是基于 Transformer 的 encoder-decoder 架构。传�
 
 下图示意了 prompt 生成的过程
 
-![alt text](image.png)
+![prompt generation process](prompt-gen.png)
 
 #### Spatio-Temporal Prompt Learner
 
