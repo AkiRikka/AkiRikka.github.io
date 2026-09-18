@@ -1,0 +1,4 @@
+article:
+  zen_mode_title:
+    enable: "启用阅读模式"
+    disable: "退出阅读模式"

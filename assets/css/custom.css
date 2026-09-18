@@ -1,0 +1,27 @@
+/* Keep long technical titles readable on small screens. */
+@media (max-width: 640px) {
+  #single_header {
+    margin-top: 1rem;
+  }
+
+  #single_header h1 {
+    font-size: clamp(1.75rem, 8vw, 2rem);
+    line-height: 1.2;
+    letter-spacing: -0.025em;
+    overflow-wrap: anywhere;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

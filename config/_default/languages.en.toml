@@ -1,6 +1,6 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+locale = "en"
+label = "English"
 weight = 2
 title = "Aki's blog"
 
@@ -11,7 +11,7 @@ title = "Aki's blog"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Aki's blog"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]

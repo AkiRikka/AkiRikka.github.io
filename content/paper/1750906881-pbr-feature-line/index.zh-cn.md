@@ -1,5 +1,5 @@
 ---
-title: "论文阅读&复现｜Physically based feature line rendering"
+title: "论文阅读与复现｜Physically Based Feature Line Rendering"
 date: 2025-06-26
 draft: true
 description: "paper reading pbr feature line rendering"
@@ -14,4 +14,4 @@ tags: ["rendering", "NPR", "PBR"]
 
 ## 简介
 
-城市时空预测（Urban Spatio-Temporal Prediction）是智慧城市系统中非常重要的一环。传统的深度学习方法通常使用“一个任务，一个模型”的方法来解决问题，这种方法往往只能解决某一特殊领域的问题，训练得到的模型几乎没有泛化能力，难以应用于数据稀缺的场景。
+本文用于记录《Physically Based Feature Line Rendering》的阅读与复现过程，内容仍在整理中。

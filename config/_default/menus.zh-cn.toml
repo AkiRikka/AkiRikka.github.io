@@ -31,9 +31,14 @@
   weight = 40
 
 [[main]]
+  name = "游记"
+  pageRef = "travel"
+  weight = 50
+
+[[main]]
   name = "其他"
   pageRef = "other"
-  weight = 50
+  weight = 60
 
 # [[subnavigation]]
 #  name = "An interesting topic"

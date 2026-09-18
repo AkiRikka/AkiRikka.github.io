@@ -10,4 +10,5 @@ node_modules
 .Trashes
 
 # Hugo
-public
+public/
+resources/_gen/

@@ -1,0 +1,6 @@
+{{ $zenPreference := resources.Get "js/zen-preference.js" | resources.Minify | resources.Fingerprint (.Params.fingerprintAlgorithm | default "sha512") }}
+<script
+  defer
+  src="{{ $zenPreference.RelPermalink }}"
+  integrity="{{ $zenPreference.Data.Integrity }}"
+  data-default-zen="{{ .Params.article.zenModeDefault | default false }}"></script>
